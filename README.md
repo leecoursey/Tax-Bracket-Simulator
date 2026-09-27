@@ -1,5 +1,8 @@
 # Tax Bracket Simulator
 
+> **WORK IN PROGRESS · AI-ASSISTED PROJECT**
+> This repository currently contains a project brief and visual concept. The interactive simulator has not been built. OpenAI Codex (GPT-6 family; exact variant unavailable in this session) assisted with planning and documentation. OpenAI's built-in image-generation tool created the interface concept; its exact model identifier was not exposed. See the [AI assistance and model record](docs/AI_ASSISTANCE.md).
+
 An interactive, plain-language U.S. tax dashboard in planning. Its first lesson is simple: **entering a higher tax bracket does not raise the rate on dollars already earned.** The dashboard will then show how wages and investment gains can follow different rules, and how after-tax income and essential costs affect the amount available to invest.
 
 **Status:** project brief and visual reference. The simulator has not been implemented or released. The [interface image](docs/interface-reference.png) is a concept, not a working or validated tax calculator.
